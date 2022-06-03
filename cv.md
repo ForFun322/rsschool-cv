@@ -17,4 +17,4 @@
 + Javascript course on https://ru.code-basics.com/
 + Udemy courses
 ## Languages:
-*English - Intermediate B1.
+*English - Intermediate B1
